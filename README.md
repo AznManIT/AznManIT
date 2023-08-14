@@ -20,11 +20,10 @@
 
 <h2> Certificates </h2>
 
-- [CompTIA Security+](https://i.imgur.com/b6TfWRk.png))
-- [San Diego State University Cybersecurity Certificate](https://i.imgur.com/6hZWuAK.png))
-- [Google Professional IT Support Certificate](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [CompTIA Security+](https://i.imgur.com/b6TfWRk.png)
+- [San Diego State University Cybersecurity Certificate](https://i.imgur.com/6hZWuAK.png)
+- [Google Professional IT Support Certificate](https://i.imgur.com/5Lz0hrq.png)
+
 
 <h2> 🤳 Connect with me:</h2>
 
