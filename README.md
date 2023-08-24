@@ -3,6 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects</h2>
 
 - [Creating a Virtual Machine on VirtualBox](https://github.com/AznManIT/CreatingAVirtualMachineonVirtualBox)
+- [Setting up Windows Server 2019 on VirtualBox](https://github.com/AznManIT/SettingupWindowsServer2022)
 
 <h2> Certificates </h2>
 
